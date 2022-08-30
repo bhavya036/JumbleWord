@@ -36,7 +36,7 @@ def play():
                 pp1 = pp1+1
                 print('Your score is :',pp1)
             else:
-                print('Better lusk.computer thinked word is :',picked_word)
+                print('Better luck.computer thinked word is :',picked_word)
             
             
         else:
